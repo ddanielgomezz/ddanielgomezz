@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A Software Developer</h3>
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ddanielgomezz.ddanielgomezz)
+
 - 🌱 I’m currently learning **.Net Core/Blazor/WebAssembly**
 
 - 📫 How to reach me **ddanielgomezz95@gmail.com**
